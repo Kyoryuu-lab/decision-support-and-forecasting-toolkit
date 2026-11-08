@@ -1,0 +1,15 @@
+# Bytecode and runtime cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & OS Metadata
+.idea/
+.vscode/
+.DS_Store
+*.png
